@@ -1,8 +1,8 @@
 Yes. The project should include a `README.md` with these sections
 
-AI Workplace Productivity Assistant
+### AI Workplace Productivity Assistant
 
-Project Overview
+### Project Overview
 
 The **AI Workplace Productivity Assistant** is a modern, responsive SaaS-style web application designed to help professionals automate common workplace tasks using AI.
 
@@ -137,9 +137,9 @@ Navigate through the sidebar and test:
 1. Dashboard
 2. Meeting Notes
 3. Task Planner
-4. Research Assistant
-5. AI Chat
-6. Settings
+4. Research
+5. Chat with Lorry
+
 
 ### Responsible AI Disclaimer
 
