@@ -127,8 +127,7 @@ export function AppShell({ children }: { children: ReactNode }) {
             onClick={() => setOpen((v) => !v)}
             className="rounded-lg border border-border p-2 text-foreground"
           >
-            {open ? <Menu className="h-4 w-4" /> : <X className="hidden h-4 w-4" />}
-            {!open && <Menu className="h-4 w-4" />}
+            {open ? <X className="h-4 w-4" /> : <Menu className="h-4 w-4" />}
           </button>
           <span className="text-sm font-medium text-foreground">AI Workplace</span>
         </header>
