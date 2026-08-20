@@ -64,7 +64,7 @@ The application provides a centralized workspace where users can summarize meeti
 * **UI:** Responsive CSS, modern SaaS dashboard components
 * **AI:** AI/LLM integration through structured prompts
 * **Icons:** Lucide Icons / equivalent icon library
-* **Development:** ChatGPT and Lovable.dev
+* **Development:** ChatGPT and Lovable AI
 * **Version Control:** Git and GitHub
 * **Browser:** Chrome, Edge, Firefox or other modern browsers
 
@@ -87,8 +87,6 @@ AI-Workplace-Productivity-Assistant/
 │   ├── research.js
 │   └── chat.js
 │
-├── assets/
-│   └── images/
 │
 └── components/
     ├── sidebar.html
